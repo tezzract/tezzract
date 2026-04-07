@@ -63,16 +63,9 @@
 │                                                                             │
 └──────────────────────────────────────────────────────────────────────────────|
 
-> rendering live panels...
 
-[ github stats ]
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tezzract&show_icons=true&theme=tokyonight&hide_border=true)
 
-[ top languages ]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezzract&layout=compact&theme=tokyonight&hide_border=true)
 
-[ streak ]
-![GitHub Streak](https://streak-stats.demolab.com?user=tezzract&theme=tokyonight&hide_border=true)
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │ CONTACT                                                                     │
